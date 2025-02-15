@@ -23,17 +23,6 @@ The dataset used for this analysis is a CSV file, `TRADES_CopyTr_90D_ROI.csv`, w
 - **NumPy**: For numerical operations.
 - **AST**: For parsing string representations of lists/dictionaries.
 
-## How to Run
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/trading-account-analysis.git
-    ```
-
-2. **Install the required dependencies**:
-    ```bash
-    pip install pandas numpy
-    ```
-
 
 4. **Check the results** in `account_metrics.csv`, `top_20_accounts.csv`, and `report.txt`.
 
