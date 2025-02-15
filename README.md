@@ -34,10 +34,6 @@ The dataset used for this analysis is a CSV file, `TRADES_CopyTr_90D_ROI.csv`, w
     pip install pandas numpy
     ```
 
-3. **Run the script**:
-    ```bash
-    python analyze_trading_data.py
-    ```
 
 4. **Check the results** in `account_metrics.csv`, `top_20_accounts.csv`, and `report.txt`.
 
